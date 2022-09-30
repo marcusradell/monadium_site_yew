@@ -9,9 +9,50 @@
     />
     <base data-trunk-public-url />
     <style>
+      body {
+        font-family: "Courier New", Courier, monospace;
+        margin: 0;
+        font-size: 16px;
+        background: rgb(25, 25, 25);
+        min-height: 100vh;
+        color: whitesmoke;
+        display: flex;
+        flex-direction: column;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        text-transform: uppercase;
+      }
+
+      section + section {
+        margin: 5rem 0;
+      }
+
+      a {
+        color: steelblue;
+      }
+
+      strong {
+        font-size: 1.25rem;
+        font-weight: bold;
+        color: #f4900c;
+      }
+
       .logo-link {
         text-decoration: none;
         position: relative;
+      }
+
+      .content {
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        max-width: 50rem;
       }
     </style>
   </head>
