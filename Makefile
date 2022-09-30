@@ -1,4 +1,4 @@
 dev:
 	trunk serve
 build:
-	trunk build --release --public-url https://marcusradell.github.io
+	trunk build --release --public-url monadium_site_yew
