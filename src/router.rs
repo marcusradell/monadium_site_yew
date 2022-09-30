@@ -37,6 +37,8 @@ pub fn switch(routes: Route) -> Html {
                     </h1>
                 </header>
                 <p><em><strong>{"Helping hand for the junior developer."}</strong></em></p>
+                <h2>{"Join Us!"}</h2>
+                <p>{"Discord: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a></p>
             </div> }
         }
         Route::Secure => html! {
