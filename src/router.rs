@@ -36,6 +36,7 @@ pub fn switch(routes: Route) -> Html {
                         { " Monadium.org" }
                     </h1>
                 </header>
+                <p><em><strong>{"Helping hand for the junior developer."}</strong></em></p>
             </div> }
         }
         Route::Secure => html! {
