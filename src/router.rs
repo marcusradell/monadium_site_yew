@@ -28,7 +28,15 @@ fn secure() -> Html {
 pub fn switch(routes: Route) -> Html {
     match routes {
         Route::Home => {
-            html! { <header><h1><a href="/" class="logo-link">{"🧡"}</a>{ " Monadium.org" }</h1></header> }
+            html! {
+            <div class="content">
+                <header>
+                    <h1>
+                        <a href="/" class="logo-link">{"🧡"}</a>
+                        { " Monadium.org" }
+                    </h1>
+                </header>
+            </div> }
         }
         Route::Secure => html! {
             <Secure />
