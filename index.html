@@ -4,9 +4,50 @@
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧡</text></svg>">
     <base href="/monadium_site_yew/">
     <style>
+      body {
+        font-family: "Courier New", Courier, monospace;
+        margin: 0;
+        font-size: 16px;
+        background: rgb(25, 25, 25);
+        min-height: 100vh;
+        color: whitesmoke;
+        display: flex;
+        flex-direction: column;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        text-transform: uppercase;
+      }
+
+      section + section {
+        margin: 5rem 0;
+      }
+
+      a {
+        color: steelblue;
+      }
+
+      strong {
+        font-size: 1.25rem;
+        font-weight: bold;
+        color: #f4900c;
+      }
+
       .logo-link {
         text-decoration: none;
         position: relative;
+      }
+
+      .content {
+        padding: 0 1rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        max-width: 50rem;
       }
     </style>
   
