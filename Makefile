@@ -1,4 +1,4 @@
 dev:
 	trunk serve
-release:
-	trunk build --release
+build:
+	trunk build --release --public-url https://marcusradell.github.io

@@ -17,7 +17,7 @@ jobs:
       - uses: Swatinem/rust-cache@v1
       - uses: jetli/trunk-action@v0.1.0
       - run: "rustup target add wasm32-unknown-unknown"
-      - run: "trunk build"
+      - run: "make build"
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
