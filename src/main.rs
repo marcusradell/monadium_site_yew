@@ -1,10 +1,10 @@
 use yew::prelude::*;
 use yew_router::prelude::*;
 
+mod pages;
+
 mod router;
 use router::*;
-
-mod pages;
 
 #[function_component]
 fn App() -> Html {
