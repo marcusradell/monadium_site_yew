@@ -42,7 +42,13 @@ pub fn switch(route: Route) -> Html {
                                     <p>{"Discord: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a></p>
                                 </div> }
                             }
-                        Route::NotFound => html! { <h1>{ "There might have been a page here before. I guess we'll never know." }</h1> }
+                        Route::NotFound => html! {
+                            <div>
+                                <h2>{ "New page, who dis?" }</h2>
+                                <p>{"It never feels good to be stood up. I'm sorry 🙏"}</p>
+                                <p>{"Can we meet back home and talk about it?"}</p>
+                            </div>
+                        }
                 }
             }
             </div>
