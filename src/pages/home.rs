@@ -13,6 +13,12 @@ pub fn home() -> Html {
             <p>{"My name is Marcus Rådell, and I'm a programmer who likes to help."}</p>
             <p>{"You can find me as "}<strong>{"marcusradell"}</strong>{" on twitter, github, and linkedin. I'm "}<strong>{"ummonadi"}</strong>{" on reddit."}</p>
 
+            <h2>{"What can you offer?"}</h2>
+            <p>{"I'm a freelancing Director of Engineering who mostly work with startups and scaleups."}</p>
+            <p>{"I can build apps, teams, and processes for the cost of "}<strong>{"1'000 SEK/h"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
+            <p>{"I also dabble in recruitment where I do technical interviews by pair programming with candidates."}</p>
+
+
             <h2>{"I want in!"}</h2>
             <p>{"Here's the Discord chat server: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a>{"."}</p>
             <p>{"Throw us an introduction in the #introductions channel, or just talk in the #lounge."}</p>
