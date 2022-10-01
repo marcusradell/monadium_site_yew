@@ -799,7 +799,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('monadium_site_yew-37402fcf057e9364_bg.wasm', import.meta.url);
+        input = new URL('monadium_site_yew-3e7a914b4d46e92b_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
