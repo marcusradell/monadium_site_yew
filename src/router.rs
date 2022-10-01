@@ -9,6 +9,8 @@ pub enum Route {
     Home,
     #[at("/articles")]
     Articles,
+    #[at("/articles/:id")]
+    Article { id: String },
     #[not_found]
     #[at("/404")]
     NotFound,
@@ -27,6 +29,7 @@ pub fn switch(route: Route) -> Html {
                 match route {
                     Route::Home => home(),
                     Route::Articles => articles(),
+                    Route::Article {id} => article(id),
                     Route::NotFound => not_found()
                 }
             }

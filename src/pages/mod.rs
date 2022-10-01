@@ -1,3 +1,6 @@
+mod article;
+pub use article::*;
+
 mod articles;
 pub use articles::*;
 
