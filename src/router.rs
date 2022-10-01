@@ -5,8 +5,6 @@ use yew_router::prelude::*;
 pub enum Route {
     #[at("/")]
     Home,
-    #[at("/secure")]
-    Secure,
     #[not_found]
     #[at("/404")]
     NotFound,
@@ -25,25 +23,28 @@ fn secure() -> Html {
     }
 }
 
-pub fn switch(routes: Route) -> Html {
-    match routes {
-        Route::Home => {
-            html! {
+pub fn switch(route: Route) -> Html {
+    html! {
             <div class="content">
-                <header>
-                    <h1>
-                        <a href="/" class="logo-link">{"🧡"}</a>
-                        { " Monadium.org" }
-                    </h1>
-                </header>
-                <p><em><strong>{"Helping hand for the junior developer."}</strong></em></p>
-                <h2>{"Join Us!"}</h2>
-                <p>{"Discord: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a></p>
-            </div> }
-        }
-        Route::Secure => html! {
-            <Secure />
-        },
-        Route::NotFound => html! { <h1>{ "404" }</h1> },
+            <header>
+            <h1>
+                <a href="/" class="logo-link">{"🧡"}</a>
+                { " Monadium.org" }
+            </h1>
+            </header>
+            {
+                match route {
+                    Route::Home => {
+                                html! {
+                                <div>
+                                    <p><em><strong>{"Helping hand for the junior developer."}</strong></em></p>
+                                    <h2>{"Join Us!"}</h2>
+                                    <p>{"Discord: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a></p>
+                                </div> }
+                            }
+                        Route::NotFound => html! { <h1>{ "There might have been a page here before. I guess we'll never know." }</h1> }
+                }
+            }
+            </div>
     }
 }
