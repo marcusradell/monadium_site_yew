@@ -12,19 +12,6 @@ pub enum Route {
     NotFound,
 }
 
-#[function_component(Secure)]
-fn secure() -> Html {
-    let navigator = use_navigator().unwrap();
-
-    let onclick = Callback::from(move |_| navigator.push(&Route::Home));
-    html! {
-        <div>
-            <h1>{ "Secure" }</h1>
-            <button {onclick}>{ "Go Home" }</button>
-        </div>
-    }
-}
-
 pub fn switch(route: Route) -> Html {
     html! {
             <div class="content">
