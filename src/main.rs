@@ -4,6 +4,8 @@ use yew_router::prelude::*;
 mod router;
 use router::*;
 
+mod pages;
+
 #[function_component]
 fn App() -> Html {
     html! {

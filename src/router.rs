@@ -1,6 +1,8 @@
 use yew::prelude::*;
 use yew_router::prelude::*;
 
+use crate::pages::*;
+
 #[derive(Clone, Routable, PartialEq, Eq)]
 pub enum Route {
     #[at("/")]
@@ -42,13 +44,7 @@ pub fn switch(route: Route) -> Html {
                                     <p>{"Discord: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a></p>
                                 </div> }
                             }
-                        Route::NotFound => html! {
-                            <div>
-                                <h2>{ "New page, who dis?" }</h2>
-                                <p>{"It never feels good to be stood up. I'm sorry 🙏"}</p>
-                                <p>{"Can we meet back home and talk about it?"}</p>
-                            </div>
-                        }
+                        Route::NotFound => not_found()
                 }
             }
             </div>
