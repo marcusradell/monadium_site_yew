@@ -29,5 +29,13 @@ pub fn home() -> Html {
             <p>{"Throw us an introduction in the #introductions channel, or just talk in the #lounge."}</p>
             </section>
 
+            <section>
+            <h2>{"Articles [TODO]"}</h2>
+            <p>{"Please note that I'm working on the articles section, so no need to go digging for anything useful at this point."}</p>
+            <ul>
+            <li><a href="articles/first_article">{"First Article"}</a></li>
+            </ul>
+            </section>
+
     </div> }
 }
