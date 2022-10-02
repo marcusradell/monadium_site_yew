@@ -6,6 +6,8 @@ mod pages;
 mod router;
 use router::*;
 
+mod articles;
+
 #[function_component]
 fn App() -> Html {
     html! {
