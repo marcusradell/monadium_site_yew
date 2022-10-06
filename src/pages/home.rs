@@ -34,6 +34,7 @@ pub fn home() -> Html {
             <p>{"Please note that I'm working on the articles section, so no need to go digging for anything useful at this point."}</p>
             <ul>
             <li><a href="articles/first_article">{"First Article"}</a></li>
+            <li><a href="articles/hiring_junies">{"Hiring Junies"}</a></li>
             </ul>
             </section>
 
