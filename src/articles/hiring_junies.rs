@@ -18,12 +18,12 @@ pub fn article() -> Html {
                 <li>{"🔎 Reviewing Code"}</li>
                 <li>{"👯 Team Fit"}</li>
                 <li>{"🚀 Onboarding"}</li>
-                <li>{"⌚ Product Planning"}</li>
-                <li>{"💾 Programming"}</li>
             </ol>
 
             <h3>{"Extras"}</h3>
             <ul>
+                <li>{"⌚ Product Planning"}</li>
+                <li>{"💾 Programming"}</li>
                 <li>{"Road To Becoming Senior"}</li>
             </ul>
         </p>
