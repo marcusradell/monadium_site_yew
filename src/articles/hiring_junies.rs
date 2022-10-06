@@ -32,6 +32,10 @@ pub fn article() -> Html {
             {"Huge variation with a long tail of programmers who aren't there yet."}
         </p>
 
+        <p>
+            {"Some percentage of the candidates will fake their skills."}
+        </p>
+
         <h3>{"Unclear claims of valuable skills"}</h3>
         <p>
             {r#""I went to a great programming school. Some students sucked, but I'm good.""#}
