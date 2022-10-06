@@ -32,7 +32,7 @@ pub fn article() -> Html {
             {"Huge variation with a long tail of programmers who aren't there yet."}
         </p>
 
-        <h3>{"Unclear value propositions"}</h3>
+        <h3>{"Unclear claims of valuable skills"}</h3>
         <p>
             {r#""I went to a great programming school. Some students sucked, but I'm good.""#}
         </p>
