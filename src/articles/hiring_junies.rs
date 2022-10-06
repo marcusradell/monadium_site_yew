@@ -5,6 +5,8 @@ pub fn article() -> Html {
         <div>
         <h1>{"Hiring Junies"}</h1>
 
+        <p>{"This is a presentation on how we could optimize our teams for junior programmers and what that would mean for the rest of us."}</p>
+
         <section>
         <h2>{"Overview"}</h2>
         <p>
@@ -16,6 +18,8 @@ pub fn article() -> Html {
                 <li>{"🔎 Reviewing Code"}</li>
                 <li>{"👯 Team Fit"}</li>
                 <li>{"🚀 Onboarding"}</li>
+                <li>{"⌚ Product Planning"}</li>
+                <li>{"💾 Programming"}</li>
             </ol>
         </p>
         </section>
@@ -79,6 +83,20 @@ pub fn article() -> Html {
 
         <section>
         <h2>{"🚀 Onboarding"}</h2>
+        <p>
+            {""}
+        </p>
+        </section>
+
+        <section>
+        <h2>{"⌚ Product Planning"}</h2>
+        <p>
+            {""}
+        </p>
+        </section>
+
+        <section>
+        <h2>{"💾 Programming"}</h2>
         <p>
             {""}
         </p>
