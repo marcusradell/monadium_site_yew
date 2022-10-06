@@ -34,7 +34,10 @@ pub fn article() -> Html {
 
         <h3>{"Unclear value propositions"}</h3>
         <p>
-            {"Educational background the main claim."}
+            {r#""I went to a great programming school. Some students sucked, but I'm good.""#}
+        </p>
+        <p>
+            {r#""Check out this movie app I did. It lists movies. I also have a TODO app. It's old though. I write much better code now.""#}
         </p>
 
         <p>
