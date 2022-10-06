@@ -30,10 +30,9 @@ pub fn home() -> Html {
             </section>
 
             <section>
-            <h2>{"Articles [TODO]"}</h2>
-            <p>{"Please note that I'm working on the articles section, so no need to go digging for anything useful at this point."}</p>
+            <h2>{"Articles"}</h2>
+
             <ul>
-            <li><a href="articles/first_article">{"First Article"}</a></li>
             <li><a href="articles/hiring_junies">{"Hiring Junies"}</a></li>
             </ul>
             </section>
