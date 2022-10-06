@@ -8,15 +8,20 @@ pub fn article() -> Html {
         <section>
         <h2>{"Overview"}</h2>
         <p>
-            <ul><li>{"I Need To Hire 🔥"}</li></ul>
-            <ul><li>{"I Need A Job 👩‍💻"}</li></ul>
-            <ul><li>{"Reviewing Code 🔎"}</li></ul>
-            <ul><li>{"Team Fit 👯"}</li></ul>
+            <ol>
+                <li>{"🔥 I Need To Hire"}</li>
+                <li>{"👩‍💻 I Need A Job"}</li>
+                <li>{"📶 Finding A Candidate"}</li>
+                <li>{"🏢 Finding A Company"}</li>
+                <li>{"🔎 Reviewing Code"}</li>
+                <li>{"👯 Team Fit"}</li>
+                <li>{"🚀 Onboarding"}</li>
+            </ol>
         </p>
         </section>
 
         <section>
-        <h2>{"I Need To Hire 🔥"}</h2>
+        <h2>{"🔥 I Need To Hire"}</h2>
 
         <h3>{"Junior Programmer Not A Certified Title"}</h3>
         <p>
@@ -38,18 +43,47 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"I Need A Job 👩‍💻"}</h2>
+        <h2>{"👩‍💻 I Need A Job"}</h2>
         <p>
             {""}
         </p>
         </section>
 
         <section>
-        <h2>{"The Expertiment 🧪"}</h2>
+        <h2>{"📶 Finding A Candidate"}</h2>
         <p>
             {""}
         </p>
         </section>
+
+        <section>
+        <h2>{"🏢 Finding A Company"}</h2>
+        <p>
+            {""}
+        </p>
+        </section>
+
+        <section>
+        <h2>{"🔎 Reviewing Code"}</h2>
+        <p>
+            {""}
+        </p>
+        </section>
+
+        <section>
+        <h2>{"👯 Team Fit"}</h2>
+        <p>
+            {""}
+        </p>
+        </section>
+
+        <section>
+        <h2>{"🚀 Onboarding"}</h2>
+        <p>
+            {""}
+        </p>
+        </section>
+
 
         <section>
             <div>{"Marcus Rådell"}</div>
