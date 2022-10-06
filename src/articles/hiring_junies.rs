@@ -21,6 +21,11 @@ pub fn article() -> Html {
                 <li>{"⌚ Product Planning"}</li>
                 <li>{"💾 Programming"}</li>
             </ol>
+
+            <h3>{"Extras"}</h3>
+            <ul>
+                <li>{"Road To Becoming Senior"}</li>
+            </ul>
         </p>
         </section>
 
