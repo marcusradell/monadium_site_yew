@@ -752,15 +752,15 @@ function getImports() {
         return addHeapObject(ret);
     };
     imports.wbg.__wbindgen_closure_wrapper712 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 278, __wbg_adapter_30);
+        const ret = makeMutClosure(arg0, arg1, 279, __wbg_adapter_30);
         return addHeapObject(ret);
     };
     imports.wbg.__wbindgen_closure_wrapper901 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 359, __wbg_adapter_33);
+        const ret = makeMutClosure(arg0, arg1, 360, __wbg_adapter_33);
         return addHeapObject(ret);
     };
     imports.wbg.__wbindgen_closure_wrapper938 = function(arg0, arg1, arg2) {
-        const ret = makeMutClosure(arg0, arg1, 380, __wbg_adapter_36);
+        const ret = makeMutClosure(arg0, arg1, 381, __wbg_adapter_36);
         return addHeapObject(ret);
     };
 
@@ -799,7 +799,7 @@ function initSync(module) {
 
 async function init(input) {
     if (typeof input === 'undefined') {
-        input = new URL('monadium_site_yew-98199acf50450bd_bg.wasm', import.meta.url);
+        input = new URL('monadium_site_yew-2707ad6a9595338a_bg.wasm', import.meta.url);
     }
     const imports = getImports();
 
