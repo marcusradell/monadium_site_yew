@@ -37,11 +37,15 @@ pub fn article() -> Html {
             {r#""I went to a great programming school. Some students sucked, but I'm good.""#}
         </p>
         <p>
+            {"Can you get credible references or list achievements that set you apart?"}
+        </p>
+
+        <p>
             {r#""Check out this movie app I did. It lists movies. I also have a TODO app. It's old though. I write much better code now.""#}
         </p>
 
         <p>
-            {"Most profiles try to show a width of skills."}
+            {r#""I know JS, HTML, CSS, Figma, Git, VSCode, and how to send emails.""#}
         </p>
 
         <p>
@@ -51,8 +55,10 @@ pub fn article() -> Html {
 
         <section>
         <h2>{"👩‍💻 I Need A Job"}</h2>
+
+        <h3>{"You Are Not A Junie"}</h3>
         <p>
-            {""}
+        {"You are working hard as a programmer right now. Take ownership of your career. Work as a professional right now."}
         </p>
         </section>
 
