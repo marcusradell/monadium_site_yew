@@ -32,11 +32,26 @@ pub fn article() -> Html {
         <section>
         <h2>{"🔥 I Need To Hire"}</h2>
 
-        <h3>{"Junior Programmer Not A Certified Title"}</h3>
+        <p>{"Junior programmer is not a certified title."}</p>
+
         <p>
-            {"Large variation of skills with a long tail of programmers who aren't there yet."}
+            {"Large variation of skills with a long tail of programmers who aren't there "}<strong>{"yet"}</strong>{"."}
+        </p>
+
+        <p>
             <img src="/static/longtail_graph.png" alt="Longtail graph" />
         </p>
+
+        <p>{"Invest in feedback to those who can become ready."}</p>
+
+        <p>{"Every candidate is part of your tribe."}</p>
+
+        <p>{"Increase your reach by making your interview process a great experience from the very first moment."}</p>
+
+        <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
+
+
+
 
         </section>
 
