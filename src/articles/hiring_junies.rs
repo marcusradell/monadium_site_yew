@@ -78,10 +78,17 @@ pub fn article() -> Html {
         <section>
         <h2>{"👩‍💻 I Need A Job"}</h2>
 
-        <h3>{"You Are Not A Junie"}</h3>
-        <p>
-        {"You are working hard as a programmer right now. Take ownership of your career. Work as a professional right now."}
-        </p>
+        <p>{"Take ownership of your career. Work as a professional before your first job to get your first job."}</p>
+
+        <p>{"Learn to break an app apart into small pieces. Work with a project board. Focus on one task at a time. Do not commit in code unrelated to the current task. Create new tasks and do them later. You should have clear commit messages if you work focused."}</p>
+
+        <p>{"Learn to document. It's a great way to show that you are able to communicate with others."}</p>
+
+        <p>{"Learn programming fundamentals. Take a course in your programming language of your choice. Learn to tidy up your code. Most code should look simple and obvious."}</p>
+
+        <p>{"Become an expert at something."}</p>
+
+        <p>{"You become hireable when it's obvious that you can contribute to a company."}</p>
         </section>
 
         <section>
