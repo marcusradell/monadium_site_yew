@@ -50,8 +50,17 @@ pub fn article() -> Html {
 
         <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
 
+        <p>{"Golden rule: "}<strong>{"Show empathy"}</strong>{"."}</p>
+        </section>
 
+        <section>
+        <h2>{"📝 The Job Ad"}</h2>
 
+        <p>{"Years of experience is overused and mostly relevant at 5+ years."}</p>
+
+        <p>{"Describe what problems the applicant should be able to solve."}</p>
+
+        <p>{"Describe your culture. Who would thrive at your place. Who wouldn't like it?"}</p>
 
         </section>
 
