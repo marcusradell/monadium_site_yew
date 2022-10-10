@@ -50,7 +50,9 @@ pub fn article() -> Html {
 
         <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
 
-        <p>{"Golden rule: "}<strong>{"Show empathy"}</strong>{"."}</p>
+        <p>{""}</p>
+
+        <p>{"Most important: "}<strong>{"Show empathy"}</strong>{"."}</p>
         </section>
 
         <section>
@@ -61,6 +63,12 @@ pub fn article() -> Html {
         <p>{"Describe what problems the applicant should be able to solve."}</p>
 
         <p>{"Describe your culture. Who would thrive at your place. Who wouldn't like it?"}</p>
+
+        <p>{"Describe your dream candidate, but only ask for the things that matters most."}</p>
+
+        <p>{"Walk the walk. Open source what you can and let the code reflect your processes. Sponsor important packages. Be active in your communities."}</p>
+
+        <p>{"The team matters the most. Let the team show who they are. Record videos, share personal interests, github- and linkedin-profiles, etc."}</p>
 
         </section>
 
