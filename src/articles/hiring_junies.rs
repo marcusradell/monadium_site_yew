@@ -62,16 +62,17 @@ pub fn article() -> Html {
 
         <p>{"Years of experience is overused and mostly relevant at 5+ years."}</p>
 
-        <p>{"Describe what problems the applicant should be able to solve."}</p>
+        <p>{"Make your company/team culture a part of the job ad. Let the tonality reflect what they can expect at work."}</p>
 
-        <p>{"Describe your culture. Who would thrive at your place. Who wouldn't like it?"}</p>
+        <p>{"Describe your culture explicitly. Who would thrive at your place. Who wouldn't like it?"}</p>
+
+        <p>{"Describe what problems the applicant should be able to solve."}</p>
 
         <p>{"Describe your dream candidate, but only ask for the things that matters most."}</p>
 
         <p>{"Walk the walk. Open source what you can and let the code reflect your processes. Sponsor important packages. Be active in your communities."}</p>
 
         <p>{"The team matters the most. Let the team show who they are. Record videos, share personal interests, github- and linkedin-profiles, etc."}</p>
-
         </section>
 
         <section>
