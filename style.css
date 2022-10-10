@@ -29,6 +29,10 @@ strong {
   color: #f4900c;
 }
 
+img {
+  max-width: 25vw;
+}
+
 .logo-link {
   text-decoration: none;
   position: relative;

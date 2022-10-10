@@ -16,7 +16,7 @@ pub fn article() -> Html {
                 <li>{"📶 Finding A Candidate"}</li>
                 <li>{"🏢 Finding A Company"}</li>
                 <li>{"🔎 Reviewing Code"}</li>
-                <li>{"👯 Team Fit"}</li>
+                <li>{"👯 Team Compatability"}</li>
                 <li>{"🚀 Onboarding"}</li>
             </ol>
 
@@ -34,7 +34,8 @@ pub fn article() -> Html {
 
         <h3>{"Junior Programmer Not A Certified Title"}</h3>
         <p>
-            {"Huge variation with a long tail of programmers who aren't there yet."}
+            {"Large variation of skills with a long tail of programmers who aren't there yet."}
+            <img src="/static/longtail_graph.png" alt="Longtail graph" />
         </p>
 
         <p>
@@ -93,7 +94,7 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"👯 Team Fit"}</h2>
+        <h2>{"👯 Team Compatability"}</h2>
         <p>
             {""}
         </p>
