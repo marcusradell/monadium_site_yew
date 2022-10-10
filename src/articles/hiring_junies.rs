@@ -50,9 +50,11 @@ pub fn article() -> Html {
 
         <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
 
-        <p>{""}</p>
+        <p>{"Golden rule: Don't require something from the candidate that you cannot offer them yourself."}</p>
 
-        <p>{"Most important: "}<strong>{"Show empathy"}</strong>{"."}</p>
+        <p>{"Optimize your processes with the candidates in mind."}</p>
+
+        <p>{"Summary: "}<strong>{"Show empathy"}</strong>{"."}</p>
         </section>
 
         <section>
