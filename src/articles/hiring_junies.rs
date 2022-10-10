@@ -14,7 +14,7 @@ pub fn article() -> Html {
                 <li>{"🔥 I Need To Hire"}</li>
                 <li>{"📝 The Job Ad"}</li>
                 <li>{"👩‍💻 I Need A Job"}</li>
-                <li>{"🏀 The Interview process"}</li>
+                <li>{"🏀 The Interview Process"}</li>
                 <li>{"🔎 Reviewing Code"}</li>
                 <li>{"👯 Team Compatability"}</li>
                 <li>{"🚀 Onboarding"}</li>
@@ -73,6 +73,8 @@ pub fn article() -> Html {
         <p>{"Walk the walk. Open source what you can and let the code reflect your processes. Sponsor important packages. Be active in your communities."}</p>
 
         <p>{"The team matters the most. Let the team show who they are. Record videos, share personal interests, github- and linkedin-profiles, etc."}</p>
+
+        <p>{"Be transparent with what you can such as salary expectations and interview processes."}</p>
         </section>
 
         <section>
@@ -92,17 +94,17 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"📶 Finding A Candidate"}</h2>
-        <p>
-            {""}
-        </p>
-        </section>
+        <h2>{"🏀 The Interview Process"}</h2>
 
-        <section>
-        <h2>{"🏢 Finding A Company"}</h2>
-        <p>
-            {""}
-        </p>
+        <p>{"First contact within a day."}</p>
+
+        <p>{"Signing the contract within 1-2 weeks should be possible, but not required."}</p>
+
+        <p>{"Two longer sessions should be enough, with a third optional one if any party wants to get more answers sorted out."}</p>
+
+        <p>{"Add an ice breaker at the start of each session. The goal is to make candidates less nervous. It's your responsibility to make candidates feel safe."}</p>
+
+        <p>{"Most processes will churn. Make sure they still bring value."}</p>
         </section>
 
         <section>
