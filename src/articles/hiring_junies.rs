@@ -12,9 +12,9 @@ pub fn article() -> Html {
         <p>
             <ol>
                 <li>{"🔥 I Need To Hire"}</li>
+                <li>{"📝 The Job Ad"}</li>
                 <li>{"👩‍💻 I Need A Job"}</li>
-                <li>{"📶 Finding A Candidate"}</li>
-                <li>{"🏢 Finding A Company"}</li>
+                <li>{"🏀 The Interview process"}</li>
                 <li>{"🔎 Reviewing Code"}</li>
                 <li>{"👯 Team Compatability"}</li>
                 <li>{"🚀 Onboarding"}</li>
