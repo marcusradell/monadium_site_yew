@@ -16,7 +16,6 @@ pub fn article() -> Html {
                 <li>{"👩‍💻 I Need A Job"}</li>
                 <li>{"🔎 Reviewing Code"}</li>
                 <li>{"🏀 The Interview Process"}</li>
-                <li>{"👯 Team Compatability"}</li>
                 <li>{"🚀 Onboarding"}</li>
             </ol>
 
@@ -117,7 +116,6 @@ pub fn article() -> Html {
             <p>{"Lead the reviewer."}</p>
         </section>
 
-
         <section>
             <h2>{"🏀 The Interview Process"}</h2>
 
@@ -135,17 +133,19 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"👯 Team Compatability"}</h2>
-        <p>
-            {""}
-        </p>
-        </section>
+            <h2>{"🚀 Onboarding"}</h2>
 
-        <section>
-        <h2>{"🚀 Onboarding"}</h2>
-        <p>
-            {""}
-        </p>
+            <p>{"Equipment and logins ready on first day."}</p>
+
+            <p>{"Flowers or swag."}</p>
+
+            <p>{"Record a greeting video."}</p>
+
+            <p>{"Pair- or mob-program."}</p>
+
+            <p>{"Prepare fallback project."}</p>
+
+            <p>{"Learning by doing."}</p>
         </section>
 
         <section>
