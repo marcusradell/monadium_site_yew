@@ -23,7 +23,6 @@ pub fn article() -> Html {
             <ul>
                 <li>{"⌚ Product Planning"}</li>
                 <li>{"💾 Programming"}</li>
-                <li>{"👵 Becoming Senior"}</li>
             </ul>
         </p>
         </section>
@@ -160,21 +159,13 @@ pub fn article() -> Html {
 
         <section>
             <h2>{"💾 Programming"}</h2>
-            <p>
-                {"Add tickets as you discover work."}
-            </p>
 
-            <p>
-                {"Learn how to pair program properly with a driver and navigator. Try to avoid sight seeing."}
-            </p>
+            <p>{"Add tickets as you discover work."}</p>
+
+            <p>{"Learn to pair program properly."}</p>
+
+            <p>{"Micro-steps. Rotate each commit."}</p>
         </section>
-
-        <section>
-            <h2>{"👵 Becoming Senior"}</h2>
-
-            <p></p>
-        </section>
-
 
         <section>
             <div>{"Marcus Rådell"}</div>
