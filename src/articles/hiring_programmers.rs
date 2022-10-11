@@ -38,13 +38,13 @@ pub fn article() -> Html {
 
             <p>{"Every candidate is part of your tribe."}</p>
 
-            <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
+            <p>{"Be genuine! Show what is broken."}</p>
 
             <p>{"Give feedback during the process."}</p>
 
             <p>{"Don't waste anyone's time or energy."}</p>
 
-            <p>{"Golden rule: Don't require something from the candidate that you cannot offer them yourself."}</p>
+            <p>{"Don't require what you cannot offer."}</p>
 
             <p>{"Summary: "}<strong>{"Show empathy"}</strong>{"."}</p>
         </section>
@@ -54,7 +54,7 @@ pub fn article() -> Html {
 
         <p>{"Years of experience is overused and mostly relevant at 5+ years."}</p>
 
-        <p>{"Make your company/team culture a part of the job ad. Let the tonality reflect what they can expect at work."}</p>
+        <p>{"Make your team culture a part of the job ad. Let the tonality reflect what they can expect at work."}</p>
 
         <p>{"Describe your culture explicitly. Who would thrive at your place. Who wouldn't like it?"}</p>
 
