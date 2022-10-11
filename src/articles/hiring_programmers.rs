@@ -54,21 +54,21 @@ pub fn article() -> Html {
         <section>
         <h2>{"📝 The Job Ad"}</h2>
 
-        <p>{"Years of experience is overused and mostly relevant at 5+ years."}</p>
+        <p>{"Years of experience is overused."}</p>
 
-        <p>{"Make your team culture a part of the job ad. Let the tonality reflect what they can expect at work."}</p>
+        <p>{"Use your team's tonality."}</p>
 
-        <p>{"Describe your culture explicitly. Who would thrive at your place. Who wouldn't like it?"}</p>
+        <p>{"Describe your team's culture."}</p>
 
-        <p>{"Describe what problems the applicant should be able to solve."}</p>
+        <p>{"What problems do you want solved?"}</p>
 
-        <p>{"Describe your dream candidate, but only ask for the things that matters most."}</p>
+        <p>{"What matters most? Top 3."}</p>
 
-        <p>{"Walk the walk. Open source what you can and let the code reflect your processes. Sponsor important packages. Be active in your communities."}</p>
+        <p>{"Be active in your communities."}</p>
 
-        <p>{"The team matters the most. Let the team show who they are. Record videos, share personal interests, github- and linkedin-profiles, etc."}</p>
+        <p>{"Show of your team."}</p>
 
-        <p>{"Be transparent with what you can such as salary expectations and interview processes."}</p>
+        <p>{"Be uncomfortably transparent."}</p>
         </section>
 
         <section>
