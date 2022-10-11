@@ -23,7 +23,7 @@ pub fn article() -> Html {
             <ul>
                 <li>{"⌚ Product Planning"}</li>
                 <li>{"💾 Programming"}</li>
-                <li>{"Road To Becoming Senior"}</li>
+                <li>{"👵 Becoming Senior"}</li>
             </ul>
         </p>
         </section>
@@ -75,13 +75,9 @@ pub fn article() -> Html {
 
             <p>{"Junior programmer is not a certified title."}</p>
 
-            <p>
-                <img src="/static/longtail_graph.png" alt="Longtail graph" />
-            </p>
+            <p><img src="/static/longtail_graph.png" alt="Longtail graph" /></p>
 
-            <p>
-                {"Some extreme talents and some who aren't there "}<strong>{"yet"}</strong>{"."}
-            </p>
+            <p>{"Some extreme talents and some who aren't there "}<strong>{"yet"}</strong>{"."}</p>
 
             <p>{"Be professional and own your career."}</p>
 
@@ -149,38 +145,44 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"⌚ Product Planning"}</h2>
+            <h2>{"⌚ Product Planning"}</h2>
 
-        <p>
-            {"I will assume a weekly product planning cycle that starts on Monday, ends on Friday, and is released next Monday."}
-        </p>
+            <p>
+                {"I will assume a weekly product planning cycle that starts on Monday, ends on Friday, and is released next Monday."}
+            </p>
 
-        <p>
-            {"Go through your weekly work board. It can contain 2-4 weeks of work. But discussing more than two weeks of work in detail is wasteful and can reduce the teams agility. Practice parking discussions that are not valuable to the entire team."}
-        </p>
+            <p>
+                {"Go through your weekly work board. It can contain 2-4 weeks of work. But discussing more than two weeks of work in detail is wasteful and can reduce the teams agility. Practice parking discussions that are not valuable to the entire team."}
+            </p>
 
-        <p>
-            {"Remove work that you can't do in that time frame. Be smart with how you remove things without insulting external contributors."}
-        </p>
+            <p>
+                {"Remove work that you can't do in that time frame. Be smart with how you remove things without insulting external contributors."}
+            </p>
 
-        <p>
-            {"Do a weekly demo. Record the screen, take images, write explanations. Everything should be demonstrated in an environment that is as close to production as possible."}
-        </p>
+            <p>
+                {"Do a weekly demo. Record the screen, take images, write explanations. Everything should be demonstrated in an environment that is as close to production as possible."}
+            </p>
 
-        <p>
-            {"Set a clear weekly focus. You can estimate what you can achieve internally in the team, but only describe in what direction you are focusing to those outside the team."}
-        </p>
+            <p>
+                {"Set a clear weekly focus. You can estimate what you can achieve internally in the team, but only describe in what direction you are focusing to those outside the team."}
+            </p>
         </section>
 
         <section>
-        <h2>{"💾 Programming"}</h2>
-        <p>
-            {"Add tickets as you discover work."}
-        </p>
+            <h2>{"💾 Programming"}</h2>
+            <p>
+                {"Add tickets as you discover work."}
+            </p>
 
-        <p>
-            {"Learn how to pair program properly with a driver and navigator. Try to avoid sight seeing."}
-        </p>
+            <p>
+                {"Learn how to pair program properly with a driver and navigator. Try to avoid sight seeing."}
+            </p>
+        </section>
+
+        <section>
+            <h2>{"👵 Becoming Senior"}</h2>
+
+            <p></p>
         </section>
 
 
