@@ -30,21 +30,21 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"🔥 I Need To Hire"}</h2>
+            <h2>{"🔥 I Need To Hire"}</h2>
 
-        <p>{"Invest in feedback to those who can become ready."}</p>
+            <p>{"Make your process an awesome experience!"}</p>
 
-        <p>{"Every candidate is part of your tribe."}</p>
+            <p>{"Every candidate is part of your tribe."}</p>
 
-        <p>{"Increase your reach by making your interview process a great experience from the very first moment."}</p>
+            <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
 
-        <p>{"Be genuine! Show what works great, but also what is broken and how you want to improve it."}</p>
+            <p>{"Give feedback during the process."}</p>
 
-        <p>{"Golden rule: Don't require something from the candidate that you cannot offer them yourself."}</p>
+            <p>{"Don't waste anyone's time or energy."}</p>
 
-        <p>{"Optimize your processes with the candidates in mind."}</p>
+            <p>{"Golden rule: Don't require something from the candidate that you cannot offer them yourself."}</p>
 
-        <p>{"Summary: "}<strong>{"Show empathy"}</strong>{"."}</p>
+            <p>{"Summary: "}<strong>{"Show empathy"}</strong>{"."}</p>
         </section>
 
         <section>
