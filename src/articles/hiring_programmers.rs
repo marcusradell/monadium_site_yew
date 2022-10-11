@@ -23,6 +23,7 @@ pub fn article() -> Html {
             <ul>
                 <li>{"⌚ Product Planning"}</li>
                 <li>{"💾 Programming"}</li>
+                <li>{"👵 From Junior To Senior"}</li>
             </ul>
         </p>
         </section>
@@ -165,6 +166,30 @@ pub fn article() -> Html {
             <p>{"Learn to pair program properly."}</p>
 
             <p>{"Micro-steps. Rotate each commit."}</p>
+        </section>
+
+        <section>
+            <h2>{"👵 From Junior To Senior"}</h2>
+
+            <p>{"Juniors can code a feature. [Code]"}</p>
+
+            <p>{"Get a mentor."}</p>
+
+            <p>{"Optimize for learning."}</p>
+
+            <p>{"Mid-level can plan a product. [Processes]"}</p>
+
+            <p>{"Learn to think in TDD."}</p>
+
+            <p>{"Set expectations."}</p>
+
+            <p>{"Senior can facilitate a team. [Communication]"}</p>
+
+            <p>{"Build social currency."}</p>
+
+            <p>{"It's not about you anymore."}</p>
+
+            <p>{"Delegate the hardest problems."}</p>
         </section>
 
         <section>
