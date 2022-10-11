@@ -32,6 +32,8 @@ pub fn article() -> Html {
         <section>
             <h2>{"🔥 I Need To Hire"}</h2>
 
+            <p>{"Do you have an environment where your staff can thrive?"}</p>
+
             <p>{"Make your process an awesome experience!"}</p>
 
             <p>{"Every candidate is part of your tribe."}</p>
