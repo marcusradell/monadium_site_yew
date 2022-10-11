@@ -34,6 +34,8 @@ pub fn article() -> Html {
 
             <p>{"Do you have an environment where your staff can thrive?"}</p>
 
+            <p>{"Fix team baggage."}</p>
+
             <p>{"Make your process an awesome experience!"}</p>
 
             <p>{"Every candidate is part of your tribe."}</p>
