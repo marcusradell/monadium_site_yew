@@ -32,16 +32,6 @@ pub fn article() -> Html {
         <section>
         <h2>{"🔥 I Need To Hire"}</h2>
 
-        <p>{"Junior programmer is not a certified title."}</p>
-
-        <p>
-            {"Large variation of skills with a long tail of programmers who aren't there "}<strong>{"yet"}</strong>{"."}
-        </p>
-
-        <p>
-            <img src="/static/longtail_graph.png" alt="Longtail graph" />
-        </p>
-
         <p>{"Invest in feedback to those who can become ready."}</p>
 
         <p>{"Every candidate is part of your tribe."}</p>
@@ -79,6 +69,16 @@ pub fn article() -> Html {
 
         <section>
         <h2>{"👩‍💻 I Need A Job"}</h2>
+
+        <p>{"Junior programmer is not a certified title. There are lots of juniors out there."}</p>
+
+        <p>
+            <img src="/static/longtail_graph.png" alt="Longtail graph" />
+        </p>
+
+        <p>
+            {"Large variation of skills with a long tail of programmers who aren't there "}<strong>{"yet"}</strong>{"."}
+        </p>
 
         <p>{"Take ownership of your career. Work as a professional before your first job to get your first job."}</p>
 
