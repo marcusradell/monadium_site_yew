@@ -102,17 +102,19 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"🏀 The Interview Process"}</h2>
+            <h2>{"🏀 The Interview Process"}</h2>
 
-        <p>{"First contact within a day."}</p>
+            <p>{"First-contact reply within a day."}</p>
 
-        <p>{"Signing the contract within 1-2 weeks should be possible, but not required."}</p>
+            <p>{"2-3 sessions."}</p>
 
-        <p>{"Two longer sessions should be enough, with a third optional one if any party wants to get more answers sorted out."}</p>
+            <p>{"Make them feel safe."}</p>
 
-        <p>{"Add an ice breaker at the start of each session. The goal is to make candidates less nervous. It's your responsibility to make candidates feel safe."}</p>
+            <p>{"Present company, product, and team."}</p>
 
-        <p>{"Most processes will churn. Make sure they still bring value."}</p>
+            <p>{"Collaborate based on their interest."}</p>
+
+            <p>{"Extract value from churned candidates."}</p>
         </section>
 
         <section>
