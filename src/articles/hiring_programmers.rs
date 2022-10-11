@@ -147,25 +147,15 @@ pub fn article() -> Html {
         <section>
             <h2>{"⌚ Product Planning"}</h2>
 
-            <p>
-                {"I will assume a weekly product planning cycle that starts on Monday, ends on Friday, and is released next Monday."}
-            </p>
+            <p>{"Weekly cycle Mon-Fri with wrap-up on Mondays."}</p>
 
-            <p>
-                {"Go through your weekly work board. It can contain 2-4 weeks of work. But discussing more than two weeks of work in detail is wasteful and can reduce the teams agility. Practice parking discussions that are not valuable to the entire team."}
-            </p>
+            <p>{"Plan for 2 weeks of work."}</p>
 
-            <p>
-                {"Remove work that you can't do in that time frame. Be smart with how you remove things without insulting external contributors."}
-            </p>
+            <p>{"Remove low-prio work."}</p>
 
-            <p>
-                {"Do a weekly demo. Record the screen, take images, write explanations. Everything should be demonstrated in an environment that is as close to production as possible."}
-            </p>
+            <p>{"Wrap up: do releases and record demos."}</p>
 
-            <p>
-                {"Set a clear weekly focus. You can estimate what you can achieve internally in the team, but only describe in what direction you are focusing to those outside the team."}
-            </p>
+            <p>{"Set weekly focus."}</p>
         </section>
 
         <section>
