@@ -1,1 +1,1 @@
-pub mod hiring_junies;
+pub mod hiring_programmers;

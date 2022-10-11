@@ -33,7 +33,7 @@ pub fn home() -> Html {
             <h2>{"Articles"}</h2>
 
             <ul>
-            <li><a href="articles/hiring_junies">{"Hiring Junies"}</a></li>
+            <li><a href="articles/hiring_programmers">{"Hiring Programmers"}</a></li>
             </ul>
             </section>
 
