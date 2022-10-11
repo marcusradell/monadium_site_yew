@@ -52,23 +52,23 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"📝 The Job Ad"}</h2>
+            <h2>{"📝 The Job Ad"}</h2>
 
-        <p>{"Years of experience is overused."}</p>
+            <p>{"Years of experience is overused."}</p>
 
-        <p>{"Use your team's tonality."}</p>
+            <p>{"Use your team's tonality."}</p>
 
-        <p>{"Describe your team's culture."}</p>
+            <p>{"Describe your team's culture."}</p>
 
-        <p>{"What problems do you want solved?"}</p>
+            <p>{"What problems do you want solved?"}</p>
 
-        <p>{"What matters most? Top 3."}</p>
+            <p>{"What matters most? Top 3."}</p>
 
-        <p>{"Be active in your communities."}</p>
+            <p>{"Be active in your communities."}</p>
 
-        <p>{"Show of your team."}</p>
+            <p>{"Show of your team."}</p>
 
-        <p>{"Be uncomfortably transparent."}</p>
+            <p>{"Be uncomfortably transparent."}</p>
         </section>
 
         <section>
