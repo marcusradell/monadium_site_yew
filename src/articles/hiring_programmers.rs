@@ -14,8 +14,8 @@ pub fn article() -> Html {
                 <li>{"🔥 I Need To Hire"}</li>
                 <li>{"📝 The Job Ad"}</li>
                 <li>{"👩‍💻 I Need A Job"}</li>
-                <li>{"🏀 The Interview Process"}</li>
                 <li>{"🔎 Reviewing Code"}</li>
+                <li>{"🏀 The Interview Process"}</li>
                 <li>{"👯 Team Compatability"}</li>
                 <li>{"🚀 Onboarding"}</li>
             </ol>
@@ -102,24 +102,7 @@ pub fn article() -> Html {
         </section>
 
         <section>
-            <h2>{"🏀 The Interview Process"}</h2>
-
-            <p>{"First-contact reply within a day."}</p>
-
-            <p>{"2-3 sessions."}</p>
-
-            <p>{"Make them feel safe."}</p>
-
-            <p>{"Present company, product, and team."}</p>
-
-            <p>{"Collaborate based on their interest."}</p>
-
-            <p>{"Extract value from churned candidates."}</p>
-        </section>
-
-        <section>
         <h2>{"🔎 Reviewing Code"}</h2>
-
 
         <h3>{"Unclear claims of valuable skills"}</h3>
         <p>
@@ -149,6 +132,23 @@ pub fn article() -> Html {
 
         <p>{""}</p>
 
+        </section>
+
+
+        <section>
+            <h2>{"🏀 The Interview Process"}</h2>
+
+            <p>{"First-contact reply within a day."}</p>
+
+            <p>{"2-3 sessions."}</p>
+
+            <p>{"Make them feel safe."}</p>
+
+            <p>{"Present company, product, and team."}</p>
+
+            <p>{"Collaborate based on their interest."}</p>
+
+            <p>{"Extract value from churned candidates."}</p>
         </section>
 
         <section>
