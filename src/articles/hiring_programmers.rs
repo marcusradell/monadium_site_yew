@@ -102,36 +102,19 @@ pub fn article() -> Html {
         </section>
 
         <section>
-        <h2>{"🔎 Reviewing Code"}</h2>
+            <h2>{"🔎 Reviewing Code"}</h2>
 
-        <h3>{"Unclear claims of valuable skills"}</h3>
-        <p>
-            {r#""I went to a great programming school. Some students sucked, but I'm good.""#}
-        </p>
-        <p>
-            {"Can you get credible references or list achievements that set you apart?"}
-        </p>
+            <p>{"Less is more."}</p>
 
-        <p>
-            {r#""Check out this movie app I did. It lists movies. I also have a TODO app. It's old though. I write much better code now.""#}
-        </p>
-        <p>
-            {r#""Here's my laboration code from my Udemy course.""#}
-        </p>
-        <p>
-            {"Avoid copied content or laborations as proof of skills. They are fine as proof that you took the course."}
-        </p>
+            <p>{"Attention for details."}</p>
 
-        <p>
-            {r#""I know JS, HTML, CSS, Figma, Git, VSCode, and how to send emails.""#}
-        </p>
+            <p>{"Demo the product."}</p>
 
-        <p>{"You need to say what you can achieve with the skills you have. What kind of problems can you solve with your programming skills?"}</p>
+            <p>{"Document the solution."}</p>
 
-        <h3>{"Lead the way to your proof of claims"}</h3>
+            <p>{"What skills do you want to prove?"}</p>
 
-        <p>{""}</p>
-
+            <p>{"Lead the reviewer."}</p>
         </section>
 
 
