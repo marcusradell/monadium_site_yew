@@ -171,25 +171,52 @@ pub fn article() -> Html {
         <section>
             <h2>{"👵 From Junior To Senior"}</h2>
 
-            <p>{"Juniors can code a feature. [Code]"}</p>
+            <h3>{"Junior"}</h3>
 
-            <p>{"Get a mentor."}</p>
+                <p>{"Juniors can code a feature. [Code]"}</p>
 
-            <p>{"Optimize for learning."}</p>
+                <p>{"Salary: 32K."}</p>
 
-            <p>{"Mid-level can plan a product. [Processes]"}</p>
+                <p>{"Optimize for learning."}</p>
 
-            <p>{"Learn to think in TDD."}</p>
+                <p>{"Code with intent."}</p>
 
-            <p>{"Set expectations."}</p>
+                <p>{"Get a mentor."}</p>
 
-            <p>{"Senior can facilitate a team. [Communication]"}</p>
+                <p>{"Learn to handle edge-cases."}</p>
 
-            <p>{"Build social currency."}</p>
+                <p>{"Listen to your gut."}</p>
 
-            <p>{"It's not about you anymore."}</p>
 
-            <p>{"Delegate the hardest problems."}</p>
+            <h3>{"Mid-level"}</h3>
+
+                <p>{"Mid-level can plan a product. [Processes]"}</p>
+
+                <p>{"Salary: 45K."}</p>
+
+                <p>{"Optimize for building the right thing."}</p>
+
+                <p>{"Communicate your intent inside the team."}</p>
+
+                <p>{"Learn to think in TDD."}</p>
+
+            <h3>{"Senior"}</h3>
+
+                <p>{"Senior can facilitate a team. [Communication]"}</p>
+
+                <p>{"Salary: 55K"}</p>
+
+                <p>{"Optimize the team."}</p>
+
+                <p>{"Communicate intent outside the team."}</p>
+
+                <p>{"Build social currency."}</p>
+
+                <p>{"It's not about you anymore."}</p>
+
+                <p>{"Delegate the hardest problems."}</p>
+
+                <p>{"You will get pushed into management."}</p>
         </section>
 
         <section>
