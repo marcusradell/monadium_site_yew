@@ -24,6 +24,7 @@ pub fn article() -> Html {
                 <li>{"⌚ Product Planning"}</li>
                 <li>{"💾 Programming"}</li>
                 <li>{"👵 From Junior To Senior"}</li>
+<li>{"🎅 Retaining Staff"}</li>
             </ul>
         </p>
         </section>
@@ -218,6 +219,24 @@ pub fn article() -> Html {
 
                 <p>{"You will get pushed into management."}</p>
         </section>
+
+<section>
+<h3>{"🎅 Retaining Staff"}</h3>
+
+<p>{"One-on-ones are not optional."}</p>
+
+<p>{"Retrospectives can be daily."}</p>
+
+<p>{"Don't wait with critique."}</p>
+
+<p>{"Salary represents value. Don't negotiate value."}</p>
+
+<p>{"Educate your managers."}</p>
+
+<p>{"Don't let seniors starve juniors."}</p>
+
+<p>{"Optimize for developer happiness."}</p>
+</section>
 
         <section>
             <div>{"Marcus Rådell"}</div>
