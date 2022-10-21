@@ -3,11 +3,12 @@ use yew::{html, Html};
 pub fn home() -> Html {
     html! {
     <div>
-        <p><em><strong>{"Helping hand for the junior developer."}</strong></em></p>
+        <p><em><strong>{"This is Marcus Rådell's site for things related to programming."}</strong></em></p>
 
             <section>
             <h2>{"What's Monadium.org?"}</h2>
-            <p>{"It's a community where we try to make things a little better for developers and tech companies."}</p>
+            <p>{"This is where I point programmers and organizations who reach out to get my help."}</p>
+            <p>{"It's also a community that I run where we make things a little better for developers and tech companies."}</p>
             </section>
 
             <section>
@@ -25,9 +26,12 @@ pub fn home() -> Html {
             </section>
 
             <section>
-            <h2>{"Who's running the show?"}</h2>
-            <p>{"My name is Marcus Rådell, and I'm a programmer who likes to help."}</p>
-            <p>{"You can find me as "}<strong>{"marcusradell"}</strong>{" on twitter, github, and linkedin. I'm "}<strong>{"ummonadi"}</strong>{" on reddit."}</p>
+            <h2>{"Who am I?"}</h2>
+            <p>{"My name is Marcus Rådell, and I'm a programmer who likes to help. I'm working mostly with startups and scaleups as a freelancing Director of Engineering, helping CTOs and CEOs with the harder parts of tech."}</p>
+            <p>{"I usually coach teams in how to deliver value each week by keeping unimportant work away."}</p>
+            <p>{"I do fullstack development including ideation, product planning, agile coaching, frontend, backend, and infrastructure. I lean towards Flutter for mobile apps, Rust for backends, GCP for cloud infra. I have most of my experience with TypeScript using React and node.js."}</p>
+            <p>{"I usually work remotely from my home office in Stockholm. If you want me to swing by your place, please extend the invitation to my partner Moa, a 9-year old office-dog (boxer)."}</p>
+            <p>{"You can find me on various sites as "}<strong>{"marcusradell"}</strong>{", with some exceptions."}</p>
             <p>
                 <ul>
                     <li>{"Twitter: "} <a href="https://twitter.com/marcusradell">{"marcusradell"}</a></li>
@@ -40,9 +44,10 @@ pub fn home() -> Html {
 
             <section>
             <h2>{"What's the best way to connect?"}</h2>
-            <p>{"You can find me on my Discord server: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a>{"."}</p>
+            <p>{"The Monadium.org Discord server: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a>{"."}</p>
             <p>{"Throw us an introduction in the "}<strong>{"#introductions"}</strong>{" channel, or just talk in the "}<strong>{"#lounge"}</strong>{"."}</p>
-            <p>{"Once inside, feel free to contact me in private and setup a video call."}</p>
+            <p>{"Once inside, feel free to contact me in private or setup a video call."}</p>
+            <p>{"You are free to use other methods of contact, but a proper chat server provides a whole lot of benefits for all parties involved. You should try it out!"}</p>
             </section>
 
             <section>
