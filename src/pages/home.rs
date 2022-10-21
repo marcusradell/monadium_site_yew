@@ -17,6 +17,7 @@ pub fn home() -> Html {
             <p>
                 <ul>
                     <li>{"Twitter: "} <a href="https://twitter.com/marcusradell">{"marcusradell"}</a></li>
+                    <li>{"LinkedIn: "}<a href="https://www.linkedin.com/in/marcusradell/">{"marcusradell"}</a></li>
                 </ul>
             </p>
             </section>
