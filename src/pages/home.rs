@@ -19,6 +19,7 @@ pub fn home() -> Html {
                     <li>{"Twitter: "} <a href="https://twitter.com/marcusradell">{"marcusradell"}</a></li>
                     <li>{"LinkedIn: "}<a href="https://www.linkedin.com/in/marcusradell/">{"marcusradell"}</a></li>
                     <li>{"GitHub: "}<a href="https://github.com/marcusradell/">{"marcusradell"}</a></li>
+                    <li>{"Reddit: "}<a href="https://www.reddit.com/user/ummonadi">{"ummonadi"}</a></li>
                 </ul>
             </p>
             </section>
