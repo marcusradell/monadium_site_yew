@@ -11,6 +11,20 @@ pub fn home() -> Html {
             </section>
 
             <section>
+            <h2>{"For Companies"}</h2>
+            <p>{"I'm a freelancing Director of Engineering who mostly work with startups and scaleups."}</p>
+            <p>{"I can build apps, teams, and processes for the cost of "}<strong>{"1'000 SEK/h"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
+            <p>{"I also help a selected set of talented programmers to find their dream job by pair programming and coaching them. If you want to hire a Monadium-approved candidate, the finder's fee is "} <strong>{"30'000 SEK"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
+            </section>
+
+            <section>
+            <h2>{"For Individual Programmers"}</h2>
+            <p>{"You can hire me to help with career advice, get better at product planning and coding, get a code review, pair program, or just talk."}</p>
+            <p>{"I offer individuals who can't access my services through their company a cheaper price of "}<strong>{"500 SEK/h"}</strong><em>{" (ex. VAT)"}</em>{". "}</p>
+            <p>{"The purpose of this offer is to enable more people in need to access my services. It means that I encourage those who can to hire me as a company coach at standard rate."}</p>
+            </section>
+
+            <section>
             <h2>{"Who's running the show?"}</h2>
             <p>{"My name is Marcus Rådell, and I'm a programmer who likes to help."}</p>
             <p>{"You can find me as "}<strong>{"marcusradell"}</strong>{" on twitter, github, and linkedin. I'm "}<strong>{"ummonadi"}</strong>{" on reddit."}</p>
@@ -25,16 +39,10 @@ pub fn home() -> Html {
             </section>
 
             <section>
-            <h2>{"For Companies"}</h2>
-            <p>{"I'm a freelancing Director of Engineering who mostly work with startups and scaleups."}</p>
-            <p>{"I can build apps, teams, and processes for the cost of "}<strong>{"1'000 SEK/h"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
-            <p>{"I also help a selected set of talented programmers to find their dream job by pair programming and coaching them. If you want to hire a Monadium-approved candidate, the finder's fee is "} <strong>{"30'000 SEK"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
-            </section>
-
-            <section>
-            <h2>{"I want in!"}</h2>
-            <p>{"Here's the Discord chat server: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a>{"."}</p>
-            <p>{"Throw us an introduction in the #introductions channel, or just talk in the #lounge."}</p>
+            <h2>{"What's the best way to connect?"}</h2>
+            <p>{"You can find me on my Discord server: "} <a href="https://discord.gg/59hgZycxYJ">{"https://discord.gg/59hgZycxYJ"}</a>{"."}</p>
+            <p>{"Throw us an introduction in the "}<strong>{"#introductions"}</strong>{" channel, or just talk in the "}<strong>{"#lounge"}</strong>{"."}</p>
+            <p>{"Once inside, feel free to contact me in private and setup a video call."}</p>
             </section>
 
             <section>
