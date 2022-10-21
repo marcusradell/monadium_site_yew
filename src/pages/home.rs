@@ -14,6 +14,11 @@ pub fn home() -> Html {
             <h2>{"Who's running the show?"}</h2>
             <p>{"My name is Marcus Rådell, and I'm a programmer who likes to help."}</p>
             <p>{"You can find me as "}<strong>{"marcusradell"}</strong>{" on twitter, github, and linkedin. I'm "}<strong>{"ummonadi"}</strong>{" on reddit."}</p>
+            <p>
+                <ul>
+                    <li>{"Twitter: "} <a href="https://twitter.com/marcusradell">{"marcusradell"}</a></li>
+                </ul>
+            </p>
             </section>
 
             <section>
