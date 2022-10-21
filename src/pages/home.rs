@@ -25,10 +25,10 @@ pub fn home() -> Html {
             </section>
 
             <section>
-            <h2>{"What can you offer?"}</h2>
+            <h2>{"For Companies"}</h2>
             <p>{"I'm a freelancing Director of Engineering who mostly work with startups and scaleups."}</p>
             <p>{"I can build apps, teams, and processes for the cost of "}<strong>{"1'000 SEK/h"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
-            <p>{"I also dabble in recruitment where I do technical interviews by pair programming with candidates."}</p>
+            <p>{"I also help a selected set of talented programmers to find their dream job by pair programming and coaching them. If you want to hire a Monadium-approved candidate, the finder's fee is "} <strong>{"30'000 SEK"}</strong><em>{" (ex. VAT)"}</em>{"."}</p>
             </section>
 
             <section>
